@@ -3,14 +3,17 @@ O API do 6° semestre do curso de Gestão da Produção Industrial (FATEC - São
 
 # Integrantes do Grupo
 O Grupo é formado pelos seguintes integrantes:
-Alessandra Cabral (Scrum Master):
 
-Larissa Santos (Product Owner): www.linkedin.com/in/larissa-santos-311326178
+*Alessandra Cabral (Scrum Master):
+*Larissa Santos (Product Owner): www.linkedin.com/in/larissa-santos-311326178
+*Bruno Santos (Scrum Team):
+*Fábio Marques (Scrum Team):
+*Natália Gouveia (Scrum Team):
+*Yasmin Santos (Scrum Team):
 
-Bruno Santos (Scrum Team):
+# Visão do Produto
+O nosso produto conta com as seguintes práticas
 
-Fábio Marques (Scrum Team):
+<img src="C:\Users\Larissa\Downloads\Backlog do Produto-Map 1.png">
 
-Natália Gouveia (Scrum Team):
 
-Yasmin Santos (Scrum Team):
