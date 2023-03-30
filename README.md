@@ -42,15 +42,7 @@ Temos como visão de produto elaborar uma unificação das ferramentas Jira e Pr
 
 Lista dos integrantes da equipe responsáveis pelo desenvolvimento do projeto:
 
-| [<img src="https://user-images.githubusercontent.com/128653100/228704577-204ce56e-7a2c-4204-9ae2-365ff90f22cc.jpeg" width=115><br><sub>Alessandra Cabral</sub>](https://www.linkedin.com/in/alessandra-cabral-42999a150) |  [<img src="https://user-images.githubusercontent.com/128653100/228704888-1bdd3632-c7cc-4d6a-bc3d-4f5b3c41dfc2.jpeg" width=115><br><sub>Bruno Santos</sub>](https://www.linkedin.com/in/bruno-santos-19b54a156) |  [<img src="https://user-images.githubusercontent.com/128653100/228725120-2f36b7ee-5519-4a8a-adcd-c79d0e0307ac.jpeg" width=115><br><sub>Fábio Marques</sub>](https://www.linkedin.com/in/fabio-marques-5b9893217) |  [<img src="https://user-images.githubusercontent.com/128653100/228725134-a30ac424-a97a-4630-97a0-072816ae43d3.jpeg" width=115><br><sub>Larissa Santos</sub>](https://www.linkedin.com/in/larissa-santos-311326178) |  [<img src="https://user-images.githubusercontent.com/128653100/228725145-49861856-4ea0-420c-9ce4-1a8984c4707e.jpeg" width=115><br><sub>Natalia Gouvea</sub>](https://www.linkedin.com/in/natalia-let%C3%ADcia-assis-gouvea-2169571b8) |  [<img src="https://user-images.githubusercontent.com/128653100/228725150-981571bb-71d0-484e-9e78-b8ccaf8a3790.jpeg" width=115><br><sub>Willian Sousa</sub>](https://www.linkedin.com/in/willian-rodrigues-7016b3175) |  [<img src="https://user-images.githubusercontent.com/128653100/228725158-0788947a-747f-461e-b489-e2eb641c4006.jpeg" width=115><br><sub>Yasmin Santos</sub>](https://www.linkedin.com/in/willian-rodrigues-7016b3175) |
+| [<img src="https://user-images.githubusercontent.com/128653100/228983695-1474721e-34b5-41e2-a856-ebb6226eeb8d.jpeg" width=115><br><sub>Alessandra Cabral</sub>](https://www.linkedin.com/in/alessandra-cabral-42999a150) |  [<img src="https://user-images.githubusercontent.com/128653100/228983701-526dd789-19cc-4c4e-9760-baf965e3b9c9.jpeg" width=115><br><sub>Bruno Santos</sub>](https://www.linkedin.com/in/bruno-santos-19b54a156) |  [<img src="https://user-images.githubusercontent.com/128653100/228725120-2f36b7ee-5519-4a8a-adcd-c79d0e0307ac.jpeg" width=115><br><sub>Fábio Marques</sub>](https://www.linkedin.com/in/fabio-marques-5b9893217) |  [<img src="https://user-images.githubusercontent.com/128653100/228984234-8b2ec4f3-6cb6-4069-a774-8433f99e05cf.jpeg" width=115><br><sub>Larissa Santos</sub>](https://www.linkedin.com/in/larissa-santos-311326178) |  [<img src="https://user-images.githubusercontent.com/128653100/228983738-68a962e3-fc5b-4e3f-9bca-2161c81423f1.jpeg" width=115><br><sub>Natalia Gouvea</sub>](https://www.linkedin.com/in/natalia-let%C3%ADcia-assis-gouvea-2169571b8) |  [<img src="https://user-images.githubusercontent.com/128653100/228725150-981571bb-71d0-484e-9e78-b8ccaf8a3790.jpeg" width=115><br><sub>Willian Sousa</sub>](https://www.linkedin.com/in/willian-rodrigues-7016b3175) |  [<img src="https://user-images.githubusercontent.com/128653100/228983774-dad40437-09d4-4804-9a27-b26379445fb5.jpeg" width=115><br><sub>Yasmin Santos</sub>](https://www.linkedin.com/in/willian-rodrigues-7016b3175) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-
-
-
-
-
-
-
 
 
