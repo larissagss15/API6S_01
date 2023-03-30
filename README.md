@@ -21,8 +21,19 @@ O API do 6° semestre do curso de Gestão da Produção Industrial (FATEC - São
 # Status do Projeto
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 # Requisitos Funcionais
+* Disponibilidade
+* Simplicidade
+* Adaptabilidade
+* Analise de KPI
+* Rastreabilidade
+* Representatividade
+* Entregas de indicadores de desempenho
 
 # Requisitos Não Funcionais
+* Unificação de dados Jira e Project
+* Desenvolvimento de Dashboard Power BI
+* Automatização de dados
+* Banco de dados
 
 # Visão do Produto
 Temos como visão de produto elaborar uma unificação das ferramentas Jira e Project e implementar um dashboard mais dinâmico e com automação obtendo informações síncronas, afim de trazer mais otimização no processo.
