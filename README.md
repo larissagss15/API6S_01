@@ -19,7 +19,7 @@ O API do 6° semestre do curso de Gestão da Produção Industrial (FATEC - São
 O API do 6° semestre do curso de Gestão da Produção Industrial (FATEC - São josé dos Campos), será realizado em conjunto com a empresa IACIT Solutions, onde a equipe deverá elaborar e analisar uma dashboard com o alguns indicadores de desempenho (KPI's).
 
 # Status do Projeto
-
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 # Requisitos Funcionais
 
 # Requisitos Não Funcionais
