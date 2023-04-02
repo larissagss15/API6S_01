@@ -36,7 +36,7 @@ O API do 6° semestre do curso de Gestão da Produção Industrial (FATEC - São
 * Banco de dados
 
 # Visão do Produto
-Temos como visão de produto elaborar uma unificação das ferramentas Jira e Project e implementar um dashboard mais dinâmico e com automação obtendo informações síncronas, afim de trazer mais otimização no processo.
+Temos como visão de produto elaborar uma unificação das ferramentas Jira e Project e implementar um dashboard mais dinâmico e com automação obtendo informações síncronas, a fim de trazer mais otimização no processo.
 
 # Autores
 
