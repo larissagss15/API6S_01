@@ -6,9 +6,8 @@ O API do 6° semestre do curso de Gestão da Produçaõ Industrial da FATEC - s�
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [ Requisitos Funcionais](#funcionalidades-e-demonstração-da-aplicação)
+* [Requisitos Não Funcionais](#tecnologias-utilizadas)
 * [Autores](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
 
@@ -16,12 +15,10 @@ O API do 6° semestre do curso de Gestão da Produçaõ Industrial da FATEC - s�
 
 A equipe deverá desenvolver uma solução que unifique os dados gerados pelas ferramentas de controle de atividades e horas utilizadas pela empresa e gerar um Dashboard para acompanhamento e análise dos indicadores de desempenho solicitados.
 
-O API do 6° semestre do curso de Gestão da Produção Industrial (FATEC - São josé dos Campos), será realizado em conjunto com a empresa IACIT Solutions, onde a equipe deverá elaborar e analisar uma dashboard com o alguns indicadores de desempenho (KPI's).
-
 # 🚦Status do Projeto
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-# Requisitos Funcionais
+# 🛠️Requisitos Funcionais
 
 * Análise de KPI
 * Entregas de Indicadores Chave-Desempenho
