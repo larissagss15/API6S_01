@@ -39,13 +39,13 @@ Temos como visão de produto elaborar uma unificação das ferramentas Jira e Pr
 
 # 📋Backlog do Produto
 
-<img width="1848" alt="Backlog do Produto-Map 1 (1)" src="https://user-images.githubusercontent.com/128653100/229325499-ed22d33f-9a22-4dfc-9953-1529ae6b2b58.png">
+<img width="1848" alt="Backlog do Produto-Map 1 (1)" src="https://user-images.githubusercontent.com/128653100/229954315-64fb9c96-fc9b-42d5-9c85-ebb3ae4303c9.png">
 
 # ⏳Planejamento Sprints
 
 ![Sprints](https://user-images.githubusercontent.com/128653100/229325667-e56aace2-f3c4-4d69-a0ab-c5a8754533bb.jpeg)
 
-# 👩‍💻Autores
+# 👩‍💻Autores!
 
 Lista dos integrantes da equipe responsáveis pelo desenvolvimento do projeto:
 
