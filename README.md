@@ -41,11 +41,20 @@ Temos como visão de produto elaborar uma unificação das ferramentas Jira e Pr
 
 <img width="1848" alt="Backlog do Produto-Map 1 (1)" src="https://user-images.githubusercontent.com/128653100/229954315-64fb9c96-fc9b-42d5-9c85-ebb3ae4303c9.png">
 
-# ⏳Planejamento Sprints
+# ⏳Planejamento Entregas
+
+- [x] Kick-off - 13/02/2023 a 03/03/2023 - ✅
+- [ ] Sprint 1 - 13/03/2023 a 02/04/2023 - 
+- [ ] Sprint 2 - 03/04/2023 a 23/04/2023 -
+- [ ] Sprint 3 - 24/04/2023 a 14/05/2023 -
+- [ ] Sprint 4 - 15/05/2023 a 04/06/2023 - 
+- [ ] Feira de Soluções - 13/06/2023 a 14/06/2023 - 
+
+# ⏳Roteiro Sprints
 
 ![Sprints](https://user-images.githubusercontent.com/128653100/229325667-e56aace2-f3c4-4d69-a0ab-c5a8754533bb.jpeg)
 
-# 👩‍💻Autores!
+# 👩‍💻Autores
 
 Lista dos integrantes da equipe responsáveis pelo desenvolvimento do projeto:
 
