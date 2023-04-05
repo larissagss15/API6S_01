@@ -3,13 +3,12 @@ O API do 6° semestre do curso de Gestão da Produçaõ Industrial da FATEC - s�
 
 # 🗂️Índice 
 
-* [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [ Requisitos Funcionais](#funcionalidades-e-demonstração-da-aplicação)
 * [Requisitos Não Funcionais](#tecnologias-utilizadas)
 * [Autores](#pessoas-desenvolvedoras)
-* [Conclusão](#conclusão)
+
 
 # 📝Descrição do Projeto
 
