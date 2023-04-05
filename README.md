@@ -16,7 +16,13 @@ O API do 6° semestre do curso de Gestão da Produçaõ Industrial da FATEC - s�
 
 # 📝Descrição do Projeto
 
-A equipe Business Solution deverá desenvolver uma solução que unifique os dados gerados pelas ferramentas de controle de atividades e horas utilizadas pela empresa e gerar um Dashboard para acompanhamento e análise dos indicadores de desempenho solicitados.
+A equipe Business Solution deverá desenvolver uma solução que unifique os dados gerados pelas ferramentas de controle de atividades e horas utilizadas pela empresa e gerar um Dashboard para acompanhamento e análise dos indicadores de desempenho solicitados:
+
+* Medição do custo de desenvolvimento planejado e executado;
+* Análise quantitaiva de performance da equipe;
+* índice de retrabalho;
+* Análise Automática do Planejado/Executado;
+* Rastreabilidade dos desvios da equipe.
 
 # 🚦Status do Projeto
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
