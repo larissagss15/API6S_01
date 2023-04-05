@@ -13,7 +13,7 @@ O API do 6° semestre do curso de Gestão da Produçaõ Industrial da FATEC - s�
 
 # 📝Descrição do Projeto
 
-A equipe deverá desenvolver uma solução que unifique os dados gerados pelas ferramentas de controle de atividades e horas utilizadas pela empresa e gerar um Dashboard para acompanhamento e análise dos indicadores de desempenho solicitados.
+A equipe Business Solution deverá desenvolver uma solução que unifique os dados gerados pelas ferramentas de controle de atividades e horas utilizadas pela empresa e gerar um Dashboard para acompanhamento e análise dos indicadores de desempenho solicitados.
 
 # 🚦Status do Projeto
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -35,7 +35,7 @@ A equipe deverá desenvolver uma solução que unifique os dados gerados pelas f
 * Banco de dados
 
 # 🔎Visão do Produto
-Temos como visão de produto elaborar uma unificação das ferramentas Jira e Project e implementar um dashboard mais dinâmico e com automação obtendo informações síncronas, a fim de trazer mais otimização no processo.
+Temos como visão de produto elaborar uma unificação dos dados gerados pelas ferramentas Jira e Project e implementar um dashboard mais dinâmico e com automação obtendo informações síncronas, a fim de trazer mais otimização no processo.
 
 # 📋Backlog do Produto
 
