@@ -48,7 +48,12 @@ Temos como visão de produto elaborar uma unificação dos dados gerados pelas f
 
 # 📋Backlog do Produto
 
-<img width="1848" alt="Backlog do Produto-Map 1 (1)" src="https://user-images.githubusercontent.com/128653100/229954315-64fb9c96-fc9b-42d5-9c85-ebb3ae4303c9.png">
+<img width="1643" alt="Backlog do Produto-Map 1" src="https://user-images.githubusercontent.com/128653215/234736781-fc262c1c-a40c-46ae-afd8-0804d8632d5f.png">
+
+
+
+
+
 
 # ⏳Planejamento Entregas
 
