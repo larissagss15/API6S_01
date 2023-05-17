@@ -58,8 +58,8 @@ Temos como visão de produto elaborar uma unificação dos dados gerados pelas f
 # ⏳Planejamento Entregas
 
 - [x] Kick-off - 13/02/2023 a 03/03/2023 - ✅
-- [ ] Sprint 1 - 13/03/2023 a 02/04/2023 - ✅
-- [ ] Sprint 2 - 03/04/2023 a 03/05/2023 -
+- [x] Sprint 1 - 13/03/2023 a 02/04/2023 - ✅
+- [x] Sprint 2 - 03/04/2023 a 03/05/2023 - ✅
 - [ ] Sprint 3 - 24/04/2023 a 14/05/2023 -
 - [ ] Sprint 4 - 15/05/2023 a 04/06/2023 - 
 - [ ] Feira de Soluções - 13/06/2023 a 14/06/2023 - 
@@ -69,7 +69,8 @@ Temos como visão de produto elaborar uma unificação dos dados gerados pelas f
 # ⏳Roteiro Sprint
 
 
-![Sprints](https://user-images.githubusercontent.com/128653215/234734692-c8598fb2-f71c-4008-b739-213ee8bb332f.jpeg)
+![Sprints](https://github.com/larissagss15/API6S_01/assets/128653100/00516bfa-2b86-4792-b012-36a2bf232941)
+
 
 
 
