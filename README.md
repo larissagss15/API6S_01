@@ -69,8 +69,7 @@ Temos como visão de produto elaborar uma unificação dos dados gerados pelas f
 # ⏳Roteiro Sprint
 
 
-![Sprints](https://github.com/larissagss15/API6S_01/assets/128653100/00516bfa-2b86-4792-b012-36a2bf232941)
-
+![Sprints](https://github.com/larissagss15/API6S_01/assets/128653100/d1670cc6-e574-4d00-afa4-dcc5849971ec)
 
 
 
